@@ -1,4 +1,3 @@
-// utility.h
 #pragma once
 
 #include <ctype.h>

@@ -1,24 +1,7 @@
-// life.cpp
 #include "life.h"
 #include <iostream>
 
 using namespace std;
-
-Life::Life(int rows, int cols) : maxrow(rows), maxcol(cols) {
-  // Allocate memory for the grid
-  grid = new int *[maxrow + 2];
-  for (int i = 0; i < maxrow + 2; i++) {
-    grid[i] = new int[maxcol + 2]();
-  }
-}
-
-Life::~Life() {
-  // Deallocate memory
-  for (int i = 0; i < maxrow + 2; i++) {
-    delete[] grid[i];
-  }
-  delete[] grid;
-}
 
 int Life::neighbor_count(int row, int col)
 /*
@@ -108,7 +91,7 @@ Post: The configuration is written for the user.
   cout << endl;
 }
 
-void instructions(int maxrow, int maxcol)
+void instructions()
 /*
 Pre:  None.
 Post: Instructions for using the Life program have been printed.

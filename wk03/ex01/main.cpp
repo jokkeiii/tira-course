@@ -1,34 +1,21 @@
 #include "life.h"
 #include "utility.h"
-#include <cstdlib> // for std::atoi
 #include <iostream>
 
 using namespace std;
 
-int main(int argc, char *argv[]) {
-  int rows = 20; // Default number of rows
-  int cols = 60; // Default number of columns
-
-  // Check if the correct number of arguments is passed
-  if (argc == 3) {
-    rows = atoi(argv[1]); // Convert first argument to integer
-    cols = atoi(argv[2]); // Convert second argument to integer
-  } else if (argc != 1) {
-    // If arguments are provided, but not the correct number
-    cerr << "Usage: " << argv[0] << " [number of rows] [number of columns]"
-         << endl;
-    cerr << "Using default values: " << rows << " rows, " << cols << " columns"
-         << endl;
-  }
-
-  // Additional check to ensure positive integer inputs
-  if (rows <= 0 || cols <= 0) {
-    cerr << "Rows and columns must be positive integers." << endl;
-    return 1;
-  }
-
-  Life configuration(rows, cols);
-  instructions(rows, cols);
+int main() //  Program to play Conway's game of Life.
+/*
+Pre:  The user supplies an initial configuration of living cells.
+Post: The program prints a sequence of pictures showing the changes in
+      the configuration of living cells according to the rules for
+      the game of Life.
+Uses: The class Life and its methods initialize(), print(), and update().
+      The functions  instructions(),  user_says_yes().
+*/
+{
+  Life configuration;
+  instructions();
   configuration.initialize();
   configuration.print();
   cout << "Continue viewing new generations? " << endl;
@@ -37,5 +24,4 @@ int main(int argc, char *argv[]) {
     configuration.print();
     cout << "Continue viewing new generations? " << endl;
   }
-  return 0; // Successful execution
 }

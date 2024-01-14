@@ -1,18 +1,17 @@
-// life.h
 #pragma once
+
+const int maxrow = 20, maxcol = 60; // grid dimensions
 
 class Life {
 public:
-  Life(int rows, int cols); // Constructor to initialize grid size
-  ~Life();                  // Destructor to free allocated memory
   void initialize();
   void print();
   void update();
 
 private:
-  int maxrow, maxcol;
-  int **grid; // Pointer for a 2D dynamic array
+  int grid[maxrow + 2][maxcol + 2];
+  // allows for two extra rows and columns
   int neighbor_count(int row, int col);
 };
 
-void instructions(int maxrow, int maxcol);
+void instructions();
