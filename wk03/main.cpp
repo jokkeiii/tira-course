@@ -1,3 +1,4 @@
+// main.cpp
 #include "life.h"
 #include "utility.h"
 #include <iostream>

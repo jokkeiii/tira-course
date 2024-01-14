@@ -1,3 +1,4 @@
+// life.h
 #pragma once
 
 const int maxrow = 20, maxcol = 60; // grid dimensions

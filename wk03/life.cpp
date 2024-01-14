@@ -1,3 +1,4 @@
+// life.cpp
 #include "life.h"
 #include <iostream>
 
