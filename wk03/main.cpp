@@ -4,6 +4,8 @@
 
 using namespace std;
 
+void instructions();
+
 int main() //  Program to play Conway's game of Life.
 /*
 Pre:  The user supplies an initial configuration of living cells.
@@ -13,7 +15,6 @@ Post: The program prints a sequence of pictures showing the changes in
 Uses: The class Life and its methods initialize(), print(), and update().
       The functions  instructions(),  user_says_yes().
 */
-
 {
   Life configuration;
   instructions();
