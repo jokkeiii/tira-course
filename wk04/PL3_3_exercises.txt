@@ -1,0 +1,70 @@
+Programming Languages 3, 3. exercises:
+======================================
+
+
+Exercise 1.
+-----------
+
+Start with the stack methods, and write a function copy_stack with the following
+specifications:
+
+    Error_code copy_stack(Stack &dest, Stack &source);
+
+precondition: None.
+
+postcondition: Stack dest has become an exact copy of Stack source; source
+is unchanged. If an error is detected, an appropriate code is
+returned; otherwise, a code of success is returned.
+
+Write three versions of your function:
+(a) Simply use an assignment statement: dest = source;
+
+(b) Use the Stack methods and a temporary Stack to retrieve entries from the
+    Stack source and add each entry to the Stack dest and restore the Stack
+    source.
+
+(c) Write the function as a friend to the class Stack. Use the private data
+    members of the Stack and write a loop that copies entries from source to
+    dest. Friend functions have access to all members of a C++ class, even private ones.
+	
+Which of these is easiest to write? Which will run most quickly if the stack is
+nearly full? Which will run most quickly if the stack is nearly empty? Which
+would be the best method if the implementation might be changed? In which
+could we pass the parameter source as a constant reference?
+	
+
+Exercise 2.
+-----------
+
+Write code for the following functions. [Your code must use Stack methods,
+but you should not make any assumptions about how stacks or their methods
+are actually implemented. For some functions, you may wish to declare and
+use a second, temporary Stack object.]
+
+(a) Function bool full(Stack &s) leaves the Stack s unchanged and returns a
+    value of true or false according to whether the Stack s is or is not full.
+
+(b) Function Error_code pop_top(Stack &s, Stack_entry &t) removes the top entry
+    from the Stack s and returns its value as the output parameter t.
+
+(c) Function void clear(Stack &s) deletes all entries and returns s as an empty
+    Stack.
+
+(d) Function int size(Stack &s) leaves the Stack s unchanged and returns a count
+    of the number of entries in the Stack.
+
+(e) Function void delete_all(Stack &s, Stack_entry x) deletes all occurrences (if
+    any) of x from s and leaves the remaining entries in s in the same relative
+    order.
+	
+
+Exercise 3.
+-----------
+
+Write a program that uses a Stack to read an integer and print all its prime
+divisors in descending order. For example, with the integer 2100 the output
+should be
+7 5 5 3 2 2.
+
+[Hint: The smallest divisor greater than 1 of any integer is guaranteed to be a
+prime.]
