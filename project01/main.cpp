@@ -31,14 +31,14 @@ char get_command() {
     cin >> command;
     command = tolower(command);
     if (command == '?' || command == '=' || command == '+' || command == '-' ||
-        command == '*' || command == '/' || command == 'q')
+        command == '*' || command == '/' || command == 'q' || command == 'x')
       waiting = false;
 
     else {
       cout << "Please enter a valid command:" << endl
            << "[?]push to stack   [=]print top" << endl
            << "[+] [-] [*] [/]   are arithmetic operations" << endl
-           << "[Q]uit." << endl;
+           << "[X]exchange top numbers   [Q]uit." << endl;
     }
   }
   return command;
@@ -146,5 +146,5 @@ void instructions() {
   cout << "Please enter command:" << endl
        << "[?]push to stack   [=]print top" << endl
        << "[+] [-] [*] [/]   are arithmetic operations" << endl
-       << "[Q]uit." << endl;
+       << "[X]exchange top numbers   [Q]uit." << endl;
 }
