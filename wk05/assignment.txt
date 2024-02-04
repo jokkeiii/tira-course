@@ -1,0 +1,102 @@
+Programming Languages 3, 4. exercises:
+======================================
+
+
+Exercise 1.
+-----------
+
+Implement and test queue data structure test program that is documented 
+in the lecture slides on pages 64 - 66 (page number can be found at the bottom 
+of the page). To do this, you need a working queue data structure. Also complete 
+the missing parts of the test program (implementations of commands append, 
+serve - help functionality of your program lists all needed functions. You can 
+create a test program for the Extended_queue class (as has been done in the 
+slides), but this requires that you implement missing parts of Extended_queue 
+class yourself. Alternatively, you can do a test program for the Queue class,
+whose all public methods can be found in the lecture slides. To save typing 
+effort I recommend that you Copy-Paste all useful source code from the file 
+3.cpp which has been given in tabula (source codes in the slides/book, part 3).
+
+
+Exercise 2.
+-----------
+
+Suppose that q is a Queue that holds characters and that x and y are character
+variables. Show the contents of q at each step of the following code segments.
+Note: Excel is a handy tool to be used in the solution. Just show the queue
+contents after each change in adjacents cells of an Excel chart. Show also the
+contents of all referred variables in your Excel presentation.
+
+(a) Queue q;
+
+    q.append('a');
+    q.serve( );
+    q.append('b');
+    q.serve( );
+    q.append('c');
+    q.append('d');
+    q.serve( );
+
+(b) Queue q;
+
+    q.append('a');
+    q.append('b');
+    q.retrieve(x);
+    q.serve( );
+    q.append('c');
+    q.append(x);
+    q.serve( );
+    q.serve( );
+
+(c) Queue q;
+
+    q.append('a');
+    x = 'b';
+    q.append('x');
+    q.retrieve(y);
+    q.serve( );
+    q.append(x);
+    q.serve( );
+    q.append(y);
+	
+
+Exercise 3.
+-----------
+
+Suppose that you are a financier and purchase 100 shares of stock in Company
+X in each of January, April, and September and sell 100 shares in each of June
+and November. The prices per share in these months were
+
+        Jan Apr Jun Sep Nov
+        $10 $30 $20 $50 $30
+        
+Determine the total amount of your capital gain or loss using (a) FIFO (firstin,
+first-out) accounting and (b) LIFO (last-in, first-out) accounting [that is,
+assuming that you keep your stock certificates in (a) a queue or (b) a stack].
+The 100 shares you still own at the end of the year do not enter the calculation.
+Note: solve this problem with a simulation program that has appropriate stacks / queues
+that it uses. Every time a single stock is bought add it to the stack / queue structure.
+When it is sold remove it from the data structure. The profit is calculated only from
+stocks also sold; those stock that are still owned are not taken into calculations.
+
+
+Exercise 4.
+-----------
+
+Use the methods for stacks and queues developed in the text to write functions
+that will do each of the following tasks. In writing each function, be sure to
+check for empty and full structures as appropriate. Your functions may declare
+other, local structures as needed.
+
+(a) Move all the entries from a Stack into a Queue.
+(b) Move all the entries from a Queue onto a Stack.
+(c) Empty one Stack onto the top of another Stack in such a way that the entries
+    that were in the first Stack keep the same relative order.
+(d) Empty one Stack onto the top of another Stack in such a way that the entries
+    that were in the first Stack are in the reverse of their original order.
+(e) Use a local Stack to reverse the order of all the entries in a Queue.
+(f) Use a local Queue to reverse the order of all the entries in a Stack.
+
+Note: you are asked to implement external functions here; not members of used 
+classes. So in those functions you haven't access to the internal data of used 
+data structures. In the solutions you need your own Stack and Queue classes.
