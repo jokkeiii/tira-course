@@ -31,14 +31,16 @@ char get_command() {
     cin >> command;
     command = tolower(command);
     if (command == '?' || command == '=' || command == '+' || command == '-' ||
-        command == '*' || command == '/' || command == 'q' || command == 'x')
+        command == '*' || command == '/' || command == 'q' || command == 'x' ||
+        command == 's')
       waiting = false;
 
     else {
       cout << "Please enter a valid command:" << endl
-           << "[?]push to stack   [=]print top" << endl
-           << "[+] [-] [*] [/]   are arithmetic operations" << endl
-           << "[X]exchange top numbers   [Q]uit." << endl;
+           << "[?] push to stack\t[=] print top" << endl
+           << "[+] [-] [*] [/] are arithmetic operations" << endl
+           << "[S] is sum of all numbers in stack" << endl
+           << "[X] exchange top numbers\t[Q]uit." << endl;
     }
   }
   return command;
@@ -133,6 +135,32 @@ Uses: The class Stack.
     }
     break;
 
+  case 's': {
+    int sum = 0;
+
+    if (numbers.top(p) == underflow)
+      cout << "Stack empty" << endl;
+
+    else {
+      numbers.pop();
+      if (numbers.top(q) == underflow) {
+        cout << "Stack has just one entry" << endl;
+        numbers.push(p);
+
+      } else {
+        sum += (p + q);
+        numbers.pop();
+
+        while (numbers.top(p) != underflow) {
+          sum += p;
+          numbers.pop();
+        }
+        numbers.push(sum);
+      }
+    }
+    break;
+  }
+
   case 'q':
     cout << "Calculation finished.\n";
     return false;
@@ -144,7 +172,8 @@ void introduction() { cout << "Welcome" << endl; }
 
 void instructions() {
   cout << "Please enter command:" << endl
-       << "[?]push to stack   [=]print top" << endl
-       << "[+] [-] [*] [/]   are arithmetic operations" << endl
-       << "[X]exchange top numbers   [Q]uit." << endl;
+       << "[?] push to stack    [=] print top" << endl
+       << "[+] [-] [*] [/] are arithmetic operations" << endl
+       << "[S] is sum of all numbers in stack" << endl
+       << "[X] exchange top numbers    [Q]uit." << endl;
 }

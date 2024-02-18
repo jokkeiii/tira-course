@@ -1,5 +1,5 @@
 #pragma once
-#include "utility.h"
+#include "../utility/utility.h"
 
 typedef double Stack_entry;
 const int maxstack = 10; //  small value for testing

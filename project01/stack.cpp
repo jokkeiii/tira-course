@@ -1,5 +1,5 @@
 #include "stack.h"
-#include "utility.h"
+#include "../utility/utility.h"
 
 Error_code Stack::push(const Stack_entry &item)
 /*
