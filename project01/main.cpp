@@ -136,6 +136,23 @@ Uses: The class Stack.
     }
     break;
 
+  case 'x':
+    if (numbers.top(p) == underflow)
+      cout << "Stack empty" << endl;
+    else {
+      numbers.pop();
+      if (numbers.top(q) == underflow) {
+        cout << "Stack has just one entry" << endl;
+        numbers.push(p);
+      } else {
+        numbers.pop();
+
+        numbers.push(p);
+        numbers.push(q);
+      }
+    }
+    break;
+
   case 's': {
     int sum = 0;
 
