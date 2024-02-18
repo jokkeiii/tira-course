@@ -32,7 +32,7 @@ char get_command() {
     command = tolower(command);
     if (command == '?' || command == '=' || command == '+' || command == '-' ||
         command == '*' || command == '/' || command == 'q' || command == 'x' ||
-        command == 's')
+        command == 's' || command == 'a')
       waiting = false;
 
     else {
@@ -40,6 +40,7 @@ char get_command() {
            << "[?] push to stack\t[=] print top" << endl
            << "[+] [-] [*] [/] are arithmetic operations" << endl
            << "[S] is sum of all numbers in stack" << endl
+           << "[A] is average of all numbers in stack" << endl
            << "[X] exchange top numbers\t[Q]uit." << endl;
     }
   }
@@ -129,7 +130,7 @@ Uses: The class Stack.
         numbers.push(p);
       } else {
         numbers.pop();
-        if (numbers.push(q / p) == overflow)
+        if (numbers.push(double(q) / double(p)) == overflow)
           cout << "Warning: Stack full, lost result" << endl;
       }
     }
@@ -161,6 +162,36 @@ Uses: The class Stack.
     break;
   }
 
+  case 'a': {
+    int sum = 0, count = 0;
+    double avg = 0;
+
+    if (numbers.top(p) == underflow)
+      cout << "Stack empty" << endl;
+
+    else {
+      numbers.pop();
+      if (numbers.top(q) == underflow) {
+        cout << "Stack has just one entry" << endl;
+        numbers.push(p);
+
+      } else {
+        sum += (p + q);
+        count = 2;
+        numbers.pop();
+
+        while (numbers.top(p) != underflow) {
+          sum += p;
+          count++;
+          numbers.pop();
+        }
+        avg = double(sum) / double(count);
+        numbers.push(avg);
+      }
+    }
+    break;
+  }
+
   case 'q':
     cout << "Calculation finished.\n";
     return false;
@@ -168,12 +199,13 @@ Uses: The class Stack.
   return true;
 }
 
-void introduction() { cout << "Welcome" << endl; }
+void introduction() { cout << "Welcome!" << endl; }
 
 void instructions() {
   cout << "Please enter command:" << endl
        << "[?] push to stack    [=] print top" << endl
        << "[+] [-] [*] [/] are arithmetic operations" << endl
        << "[S] is sum of all numbers in stack" << endl
+       << "[A] is average of all numbers in stack" << endl
        << "[X] exchange top numbers    [Q]uit." << endl;
 }
