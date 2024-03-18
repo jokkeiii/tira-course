@@ -2,7 +2,6 @@ template <class Node_entry> struct Node {
   Node_entry entry;
   Node<Node_entry> *next;
 
-  // default constructor
   Node() : next(nullptr) {}
 
   // constructor with entry and optional link

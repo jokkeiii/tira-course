@@ -3,7 +3,6 @@ template <class Node_entry> struct Node {
   Node<Node_entry> *next;
   Node<Node_entry> *back;
 
-  // default constructor
   Node() : next(nullptr), back(nullptr) {}
 
   // constructor with entry and optional links
