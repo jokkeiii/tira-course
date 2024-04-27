@@ -1,0 +1,2916 @@
+Queue Size: 5, Arrival Rate: 0.1, Departure Rate: 0.1
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 79
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 98
+Queue Size: 5, Arrival Rate: 0.1, Departure Rate: 0.2
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 84
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 193
+Queue Size: 5, Arrival Rate: 0.1, Departure Rate: 0.3
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 84
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 283
+Queue Size: 5, Arrival Rate: 0.1, Departure Rate: 0.4
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 92
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 1
+Total number of planes that landed 0
+Total number of planes that took off 373
+Queue Size: 5, Arrival Rate: 0.1, Departure Rate: 0.5
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 91
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 1
+Total number of planes that landed 0
+Total number of planes that took off 481
+Queue Size: 5, Arrival Rate: 0.1, Departure Rate: 0.6
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 90
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 8
+Total number of planes that landed 0
+Total number of planes that took off 599
+Queue Size: 5, Arrival Rate: 0.1, Departure Rate: 0.7
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 87
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 16
+Total number of planes that landed 0
+Total number of planes that took off 672
+Queue Size: 5, Arrival Rate: 0.1, Departure Rate: 0.8
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 85
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 26
+Total number of planes that landed 0
+Total number of planes that took off 739
+Queue Size: 5, Arrival Rate: 0.1, Departure Rate: 0.9
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 90
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 37
+Total number of planes that landed 0
+Total number of planes that took off 803
+Queue Size: 5, Arrival Rate: 0.2, Departure Rate: 0.1
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 192
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 84
+Queue Size: 5, Arrival Rate: 0.2, Departure Rate: 0.2
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 169
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 202
+Queue Size: 5, Arrival Rate: 0.2, Departure Rate: 0.3
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 173
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 298
+Queue Size: 5, Arrival Rate: 0.2, Departure Rate: 0.4
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 191
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 1
+Total number of planes that landed 0
+Total number of planes that took off 392
+Queue Size: 5, Arrival Rate: 0.2, Departure Rate: 0.5
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 176
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 1
+Total number of planes that landed 0
+Total number of planes that took off 494
+Queue Size: 5, Arrival Rate: 0.2, Departure Rate: 0.6
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 165
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 9
+Total number of planes that landed 0
+Total number of planes that took off 589
+Queue Size: 5, Arrival Rate: 0.2, Departure Rate: 0.7
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 168
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 15
+Total number of planes that landed 0
+Total number of planes that took off 659
+Queue Size: 5, Arrival Rate: 0.2, Departure Rate: 0.8
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 179
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 22
+Total number of planes that landed 0
+Total number of planes that took off 737
+Queue Size: 5, Arrival Rate: 0.2, Departure Rate: 0.9
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 189
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 44
+Total number of planes that landed 0
+Total number of planes that took off 793
+Queue Size: 5, Arrival Rate: 0.3, Departure Rate: 0.1
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 283
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 83
+Queue Size: 5, Arrival Rate: 0.3, Departure Rate: 0.2
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 294
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 176
+Queue Size: 5, Arrival Rate: 0.3, Departure Rate: 0.3
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 271
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 305
+Queue Size: 5, Arrival Rate: 0.3, Departure Rate: 0.4
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 278
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 1
+Total number of planes that landed 0
+Total number of planes that took off 409
+Queue Size: 5, Arrival Rate: 0.3, Departure Rate: 0.5
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 274
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 1
+Total number of planes that landed 0
+Total number of planes that took off 494
+Queue Size: 5, Arrival Rate: 0.3, Departure Rate: 0.6
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 273
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 8
+Total number of planes that landed 0
+Total number of planes that took off 573
+Queue Size: 5, Arrival Rate: 0.3, Departure Rate: 0.7
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 273
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 13
+Total number of planes that landed 0
+Total number of planes that took off 658
+Queue Size: 5, Arrival Rate: 0.3, Departure Rate: 0.8
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 291
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 22
+Total number of planes that landed 0
+Total number of planes that took off 745
+Queue Size: 5, Arrival Rate: 0.3, Departure Rate: 0.9
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 286
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 47
+Total number of planes that landed 0
+Total number of planes that took off 808
+Queue Size: 5, Arrival Rate: 0.4, Departure Rate: 0.1
+Total number of planes refused for landing 1
+Total number of planes refused for takeoff 0
+Total number of planes that landed 373
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 91
+Queue Size: 5, Arrival Rate: 0.4, Departure Rate: 0.2
+Total number of planes refused for landing 1
+Total number of planes refused for takeoff 0
+Total number of planes that landed 390
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 192
+Queue Size: 5, Arrival Rate: 0.4, Departure Rate: 0.3
+Total number of planes refused for landing 1
+Total number of planes refused for takeoff 0
+Total number of planes that landed 405
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 280
+Queue Size: 5, Arrival Rate: 0.4, Departure Rate: 0.4
+Total number of planes refused for landing 1
+Total number of planes refused for takeoff 0
+Total number of planes that landed 381
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 383
+Queue Size: 5, Arrival Rate: 0.4, Departure Rate: 0.5
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 366
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 2
+Total number of planes that landed 0
+Total number of planes that took off 498
+Queue Size: 5, Arrival Rate: 0.4, Departure Rate: 0.6
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 382
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 12
+Total number of planes that landed 0
+Total number of planes that took off 568
+Queue Size: 5, Arrival Rate: 0.4, Departure Rate: 0.7
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 379
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 18
+Total number of planes that landed 0
+Total number of planes that took off 668
+Queue Size: 5, Arrival Rate: 0.4, Departure Rate: 0.8
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 389
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 27
+Total number of planes that landed 0
+Total number of planes that took off 750
+Queue Size: 5, Arrival Rate: 0.4, Departure Rate: 0.9
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 374
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 57
+Total number of planes that landed 0
+Total number of planes that took off 823
+Queue Size: 5, Arrival Rate: 0.5, Departure Rate: 0.1
+Total number of planes refused for landing 1
+Total number of planes refused for takeoff 0
+Total number of planes that landed 480
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 91
+Queue Size: 5, Arrival Rate: 0.5, Departure Rate: 0.2
+Total number of planes refused for landing 1
+Total number of planes refused for takeoff 0
+Total number of planes that landed 492
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 176
+Queue Size: 5, Arrival Rate: 0.5, Departure Rate: 0.3
+Total number of planes refused for landing 1
+Total number of planes refused for takeoff 0
+Total number of planes that landed 491
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 275
+Queue Size: 5, Arrival Rate: 0.5, Departure Rate: 0.4
+Total number of planes refused for landing 2
+Total number of planes refused for takeoff 0
+Total number of planes that landed 496
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 370
+Queue Size: 5, Arrival Rate: 0.5, Departure Rate: 0.5
+Total number of planes refused for landing 2
+Total number of planes refused for takeoff 0
+Total number of planes that landed 474
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 486
+Queue Size: 5, Arrival Rate: 0.5, Departure Rate: 0.6
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 515
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 9
+Total number of planes that landed 0
+Total number of planes that took off 550
+Queue Size: 5, Arrival Rate: 0.5, Departure Rate: 0.7
+Total number of planes refused for landing 1
+Total number of planes refused for takeoff 0
+Total number of planes that landed 498
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 10
+Total number of planes that landed 0
+Total number of planes that took off 641
+Queue Size: 5, Arrival Rate: 0.5, Departure Rate: 0.8
+Total number of planes refused for landing 1
+Total number of planes refused for takeoff 0
+Total number of planes that landed 483
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 33
+Total number of planes that landed 0
+Total number of planes that took off 745
+Queue Size: 5, Arrival Rate: 0.5, Departure Rate: 0.9
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 482
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 55
+Total number of planes that landed 0
+Total number of planes that took off 837
+Queue Size: 5, Arrival Rate: 0.6, Departure Rate: 0.1
+Total number of planes refused for landing 8
+Total number of planes refused for takeoff 0
+Total number of planes that landed 600
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 90
+Queue Size: 5, Arrival Rate: 0.6, Departure Rate: 0.2
+Total number of planes refused for landing 9
+Total number of planes refused for takeoff 0
+Total number of planes that landed 592
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 163
+Queue Size: 5, Arrival Rate: 0.6, Departure Rate: 0.3
+Total number of planes refused for landing 8
+Total number of planes refused for takeoff 0
+Total number of planes that landed 577
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 270
+Queue Size: 5, Arrival Rate: 0.6, Departure Rate: 0.4
+Total number of planes refused for landing 12
+Total number of planes refused for takeoff 0
+Total number of planes that landed 574
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 377
+Queue Size: 5, Arrival Rate: 0.6, Departure Rate: 0.5
+Total number of planes refused for landing 9
+Total number of planes refused for takeoff 0
+Total number of planes that landed 550
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 516
+Queue Size: 5, Arrival Rate: 0.6, Departure Rate: 0.6
+Total number of planes refused for landing 1
+Total number of planes refused for takeoff 0
+Total number of planes that landed 556
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 6
+Total number of planes that landed 0
+Total number of planes that took off 593
+Queue Size: 5, Arrival Rate: 0.6, Departure Rate: 0.7
+Total number of planes refused for landing 3
+Total number of planes refused for takeoff 0
+Total number of planes that landed 583
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 11
+Total number of planes that landed 0
+Total number of planes that took off 653
+Queue Size: 5, Arrival Rate: 0.6, Departure Rate: 0.8
+Total number of planes refused for landing 3
+Total number of planes refused for takeoff 0
+Total number of planes that landed 581
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 24
+Total number of planes that landed 0
+Total number of planes that took off 762
+Queue Size: 5, Arrival Rate: 0.6, Departure Rate: 0.9
+Total number of planes refused for landing 3
+Total number of planes refused for takeoff 0
+Total number of planes that landed 576
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 47
+Total number of planes that landed 0
+Total number of planes that took off 832
+Queue Size: 5, Arrival Rate: 0.7, Departure Rate: 0.1
+Total number of planes refused for landing 16
+Total number of planes refused for takeoff 0
+Total number of planes that landed 673
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 87
+Queue Size: 5, Arrival Rate: 0.7, Departure Rate: 0.2
+Total number of planes refused for landing 15
+Total number of planes refused for takeoff 0
+Total number of planes that landed 662
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 166
+Queue Size: 5, Arrival Rate: 0.7, Departure Rate: 0.3
+Total number of planes refused for landing 13
+Total number of planes refused for takeoff 0
+Total number of planes that landed 662
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 270
+Queue Size: 5, Arrival Rate: 0.7, Departure Rate: 0.4
+Total number of planes refused for landing 18
+Total number of planes refused for takeoff 0
+Total number of planes that landed 674
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 375
+Queue Size: 5, Arrival Rate: 0.7, Departure Rate: 0.5
+Total number of planes refused for landing 10
+Total number of planes refused for takeoff 0
+Total number of planes that landed 641
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 1
+Total number of planes that landed 0
+Total number of planes that took off 499
+Queue Size: 5, Arrival Rate: 0.7, Departure Rate: 0.6
+Total number of planes refused for landing 11
+Total number of planes refused for takeoff 0
+Total number of planes that landed 650
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 3
+Total number of planes that landed 0
+Total number of planes that took off 588
+Queue Size: 5, Arrival Rate: 0.7, Departure Rate: 0.7
+Total number of planes refused for landing 6
+Total number of planes refused for takeoff 0
+Total number of planes that landed 640
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 13
+Total number of planes that landed 0
+Total number of planes that took off 695
+Queue Size: 5, Arrival Rate: 0.7, Departure Rate: 0.8
+Total number of planes refused for landing 6
+Total number of planes refused for takeoff 0
+Total number of planes that landed 658
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 28
+Total number of planes that landed 0
+Total number of planes that took off 770
+Queue Size: 5, Arrival Rate: 0.7, Departure Rate: 0.9
+Total number of planes refused for landing 5
+Total number of planes refused for takeoff 0
+Total number of planes that landed 655
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 50
+Total number of planes that landed 0
+Total number of planes that took off 840
+Queue Size: 5, Arrival Rate: 0.8, Departure Rate: 0.1
+Total number of planes refused for landing 26
+Total number of planes refused for takeoff 0
+Total number of planes that landed 740
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 85
+Queue Size: 5, Arrival Rate: 0.8, Departure Rate: 0.2
+Total number of planes refused for landing 22
+Total number of planes refused for takeoff 0
+Total number of planes that landed 739
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 179
+Queue Size: 5, Arrival Rate: 0.8, Departure Rate: 0.3
+Total number of planes refused for landing 22
+Total number of planes refused for takeoff 0
+Total number of planes that landed 747
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 290
+Queue Size: 5, Arrival Rate: 0.8, Departure Rate: 0.4
+Total number of planes refused for landing 27
+Total number of planes refused for takeoff 0
+Total number of planes that landed 752
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 389
+Queue Size: 5, Arrival Rate: 0.8, Departure Rate: 0.5
+Total number of planes refused for landing 33
+Total number of planes refused for takeoff 0
+Total number of planes that landed 745
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 1
+Total number of planes that landed 0
+Total number of planes that took off 485
+Queue Size: 5, Arrival Rate: 0.8, Departure Rate: 0.6
+Total number of planes refused for landing 24
+Total number of planes refused for takeoff 0
+Total number of planes that landed 760
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 3
+Total number of planes that landed 0
+Total number of planes that took off 585
+Queue Size: 5, Arrival Rate: 0.8, Departure Rate: 0.7
+Total number of planes refused for landing 28
+Total number of planes refused for takeoff 0
+Total number of planes that landed 768
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 6
+Total number of planes that landed 0
+Total number of planes that took off 662
+Queue Size: 5, Arrival Rate: 0.8, Departure Rate: 0.8
+Total number of planes refused for landing 13
+Total number of planes refused for takeoff 0
+Total number of planes that landed 756
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 36
+Total number of planes that landed 0
+Total number of planes that took off 743
+Queue Size: 5, Arrival Rate: 0.8, Departure Rate: 0.9
+Total number of planes refused for landing 21
+Total number of planes refused for takeoff 0
+Total number of planes that landed 735
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 41
+Total number of planes that landed 0
+Total number of planes that took off 828
+Queue Size: 5, Arrival Rate: 0.9, Departure Rate: 0.1
+Total number of planes refused for landing 37
+Total number of planes refused for takeoff 0
+Total number of planes that landed 804
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 90
+Queue Size: 5, Arrival Rate: 0.9, Departure Rate: 0.2
+Total number of planes refused for landing 45
+Total number of planes refused for takeoff 0
+Total number of planes that landed 794
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 188
+Queue Size: 5, Arrival Rate: 0.9, Departure Rate: 0.3
+Total number of planes refused for landing 48
+Total number of planes refused for takeoff 0
+Total number of planes that landed 809
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 285
+Queue Size: 5, Arrival Rate: 0.9, Departure Rate: 0.4
+Total number of planes refused for landing 58
+Total number of planes refused for takeoff 0
+Total number of planes that landed 824
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 374
+Queue Size: 5, Arrival Rate: 0.9, Departure Rate: 0.5
+Total number of planes refused for landing 55
+Total number of planes refused for takeoff 0
+Total number of planes that landed 837
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 484
+Queue Size: 5, Arrival Rate: 0.9, Departure Rate: 0.6
+Total number of planes refused for landing 47
+Total number of planes refused for takeoff 0
+Total number of planes that landed 830
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 3
+Total number of planes that landed 0
+Total number of planes that took off 580
+Queue Size: 5, Arrival Rate: 0.9, Departure Rate: 0.7
+Total number of planes refused for landing 50
+Total number of planes refused for takeoff 0
+Total number of planes that landed 838
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 5
+Total number of planes that landed 0
+Total number of planes that took off 658
+Queue Size: 5, Arrival Rate: 0.9, Departure Rate: 0.8
+Total number of planes refused for landing 41
+Total number of planes refused for takeoff 0
+Total number of planes that landed 826
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 21
+Total number of planes that landed 0
+Total number of planes that took off 739
+Queue Size: 5, Arrival Rate: 0.9, Departure Rate: 0.9
+Total number of planes refused for landing 28
+Total number of planes refused for takeoff 0
+Total number of planes that landed 823
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 52
+Total number of planes that landed 0
+Total number of planes that took off 810
+Queue Size: 10, Arrival Rate: 0.1, Departure Rate: 0.1
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 79
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 98
+Queue Size: 10, Arrival Rate: 0.1, Departure Rate: 0.2
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 84
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 193
+Queue Size: 10, Arrival Rate: 0.1, Departure Rate: 0.3
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 84
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 283
+Queue Size: 10, Arrival Rate: 0.1, Departure Rate: 0.4
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 92
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 374
+Queue Size: 10, Arrival Rate: 0.1, Departure Rate: 0.5
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 91
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 482
+Queue Size: 10, Arrival Rate: 0.1, Departure Rate: 0.6
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 90
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 607
+Queue Size: 10, Arrival Rate: 0.1, Departure Rate: 0.7
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 87
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 688
+Queue Size: 10, Arrival Rate: 0.1, Departure Rate: 0.8
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 85
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 4
+Total number of planes that landed 0
+Total number of planes that took off 761
+Queue Size: 10, Arrival Rate: 0.1, Departure Rate: 0.9
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 90
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 10
+Total number of planes that landed 0
+Total number of planes that took off 830
+Queue Size: 10, Arrival Rate: 0.2, Departure Rate: 0.1
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 192
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 84
+Queue Size: 10, Arrival Rate: 0.2, Departure Rate: 0.2
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 169
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 202
+Queue Size: 10, Arrival Rate: 0.2, Departure Rate: 0.3
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 173
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 298
+Queue Size: 10, Arrival Rate: 0.2, Departure Rate: 0.4
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 191
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 393
+Queue Size: 10, Arrival Rate: 0.2, Departure Rate: 0.5
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 176
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 495
+Queue Size: 10, Arrival Rate: 0.2, Departure Rate: 0.6
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 165
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 598
+Queue Size: 10, Arrival Rate: 0.2, Departure Rate: 0.7
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 168
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 674
+Queue Size: 10, Arrival Rate: 0.2, Departure Rate: 0.8
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 179
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 2
+Total number of planes that landed 0
+Total number of planes that took off 757
+Queue Size: 10, Arrival Rate: 0.2, Departure Rate: 0.9
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 189
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 12
+Total number of planes that landed 0
+Total number of planes that took off 820
+Queue Size: 10, Arrival Rate: 0.3, Departure Rate: 0.1
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 283
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 83
+Queue Size: 10, Arrival Rate: 0.3, Departure Rate: 0.2
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 294
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 176
+Queue Size: 10, Arrival Rate: 0.3, Departure Rate: 0.3
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 271
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 305
+Queue Size: 10, Arrival Rate: 0.3, Departure Rate: 0.4
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 278
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 410
+Queue Size: 10, Arrival Rate: 0.3, Departure Rate: 0.5
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 274
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 495
+Queue Size: 10, Arrival Rate: 0.3, Departure Rate: 0.6
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 273
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 581
+Queue Size: 10, Arrival Rate: 0.3, Departure Rate: 0.7
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 273
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 671
+Queue Size: 10, Arrival Rate: 0.3, Departure Rate: 0.8
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 291
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 765
+Queue Size: 10, Arrival Rate: 0.3, Departure Rate: 0.9
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 286
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 14
+Total number of planes that landed 0
+Total number of planes that took off 841
+Queue Size: 10, Arrival Rate: 0.4, Departure Rate: 0.1
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 374
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 91
+Queue Size: 10, Arrival Rate: 0.4, Departure Rate: 0.2
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 391
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 192
+Queue Size: 10, Arrival Rate: 0.4, Departure Rate: 0.3
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 406
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 280
+Queue Size: 10, Arrival Rate: 0.4, Departure Rate: 0.4
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 382
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 383
+Queue Size: 10, Arrival Rate: 0.4, Departure Rate: 0.5
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 366
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 500
+Queue Size: 10, Arrival Rate: 0.4, Departure Rate: 0.6
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 382
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 580
+Queue Size: 10, Arrival Rate: 0.4, Departure Rate: 0.7
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 379
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 1
+Total number of planes that landed 0
+Total number of planes that took off 682
+Queue Size: 10, Arrival Rate: 0.4, Departure Rate: 0.8
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 389
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 5
+Total number of planes that landed 0
+Total number of planes that took off 772
+Queue Size: 10, Arrival Rate: 0.4, Departure Rate: 0.9
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 374
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 19
+Total number of planes that landed 0
+Total number of planes that took off 858
+Queue Size: 10, Arrival Rate: 0.5, Departure Rate: 0.1
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 481
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 91
+Queue Size: 10, Arrival Rate: 0.5, Departure Rate: 0.2
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 493
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 176
+Queue Size: 10, Arrival Rate: 0.5, Departure Rate: 0.3
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 492
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 275
+Queue Size: 10, Arrival Rate: 0.5, Departure Rate: 0.4
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 498
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 370
+Queue Size: 10, Arrival Rate: 0.5, Departure Rate: 0.5
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 476
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 486
+Queue Size: 10, Arrival Rate: 0.5, Departure Rate: 0.6
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 515
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 559
+Queue Size: 10, Arrival Rate: 0.5, Departure Rate: 0.7
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 499
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 651
+Queue Size: 10, Arrival Rate: 0.5, Departure Rate: 0.8
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 484
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 9
+Total number of planes that landed 0
+Total number of planes that took off 768
+Queue Size: 10, Arrival Rate: 0.5, Departure Rate: 0.9
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 482
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 16
+Total number of planes that landed 0
+Total number of planes that took off 875
+Queue Size: 10, Arrival Rate: 0.6, Departure Rate: 0.1
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 608
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 90
+Queue Size: 10, Arrival Rate: 0.6, Departure Rate: 0.2
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 601
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 163
+Queue Size: 10, Arrival Rate: 0.6, Departure Rate: 0.3
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 585
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 270
+Queue Size: 10, Arrival Rate: 0.6, Departure Rate: 0.4
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 586
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 377
+Queue Size: 10, Arrival Rate: 0.6, Departure Rate: 0.5
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 559
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 516
+Queue Size: 10, Arrival Rate: 0.6, Departure Rate: 0.6
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 557
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 599
+Queue Size: 10, Arrival Rate: 0.6, Departure Rate: 0.7
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 586
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 1
+Total number of planes that landed 0
+Total number of planes that took off 663
+Queue Size: 10, Arrival Rate: 0.6, Departure Rate: 0.8
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 584
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 1
+Total number of planes that landed 0
+Total number of planes that took off 785
+Queue Size: 10, Arrival Rate: 0.6, Departure Rate: 0.9
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 579
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 12
+Total number of planes that landed 0
+Total number of planes that took off 867
+Queue Size: 10, Arrival Rate: 0.7, Departure Rate: 0.1
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 689
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 87
+Queue Size: 10, Arrival Rate: 0.7, Departure Rate: 0.2
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 677
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 166
+Queue Size: 10, Arrival Rate: 0.7, Departure Rate: 0.3
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 675
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 270
+Queue Size: 10, Arrival Rate: 0.7, Departure Rate: 0.4
+Total number of planes refused for landing 1
+Total number of planes refused for takeoff 0
+Total number of planes that landed 688
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 375
+Queue Size: 10, Arrival Rate: 0.7, Departure Rate: 0.5
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 651
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 500
+Queue Size: 10, Arrival Rate: 0.7, Departure Rate: 0.6
+Total number of planes refused for landing 1
+Total number of planes refused for takeoff 0
+Total number of planes that landed 660
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 591
+Queue Size: 10, Arrival Rate: 0.7, Departure Rate: 0.7
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 646
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 708
+Queue Size: 10, Arrival Rate: 0.7, Departure Rate: 0.8
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 664
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 3
+Total number of planes that landed 0
+Total number of planes that took off 795
+Queue Size: 10, Arrival Rate: 0.7, Departure Rate: 0.9
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 660
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 15
+Total number of planes that landed 0
+Total number of planes that took off 875
+Queue Size: 10, Arrival Rate: 0.8, Departure Rate: 0.1
+Total number of planes refused for landing 4
+Total number of planes refused for takeoff 0
+Total number of planes that landed 762
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 85
+Queue Size: 10, Arrival Rate: 0.8, Departure Rate: 0.2
+Total number of planes refused for landing 2
+Total number of planes refused for takeoff 0
+Total number of planes that landed 759
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 179
+Queue Size: 10, Arrival Rate: 0.8, Departure Rate: 0.3
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 767
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 290
+Queue Size: 10, Arrival Rate: 0.8, Departure Rate: 0.4
+Total number of planes refused for landing 5
+Total number of planes refused for takeoff 0
+Total number of planes that landed 774
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 389
+Queue Size: 10, Arrival Rate: 0.8, Departure Rate: 0.5
+Total number of planes refused for landing 9
+Total number of planes refused for takeoff 0
+Total number of planes that landed 768
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 486
+Queue Size: 10, Arrival Rate: 0.8, Departure Rate: 0.6
+Total number of planes refused for landing 1
+Total number of planes refused for takeoff 0
+Total number of planes that landed 783
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 588
+Queue Size: 10, Arrival Rate: 0.8, Departure Rate: 0.7
+Total number of planes refused for landing 3
+Total number of planes refused for takeoff 0
+Total number of planes that landed 793
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 668
+Queue Size: 10, Arrival Rate: 0.8, Departure Rate: 0.8
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 769
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 6
+Total number of planes that landed 0
+Total number of planes that took off 773
+Queue Size: 10, Arrival Rate: 0.8, Departure Rate: 0.9
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 756
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 16
+Total number of planes that landed 0
+Total number of planes that took off 853
+Queue Size: 10, Arrival Rate: 0.9, Departure Rate: 0.1
+Total number of planes refused for landing 10
+Total number of planes refused for takeoff 0
+Total number of planes that landed 831
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 90
+Queue Size: 10, Arrival Rate: 0.9, Departure Rate: 0.2
+Total number of planes refused for landing 12
+Total number of planes refused for takeoff 0
+Total number of planes that landed 822
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 188
+Queue Size: 10, Arrival Rate: 0.9, Departure Rate: 0.3
+Total number of planes refused for landing 14
+Total number of planes refused for takeoff 0
+Total number of planes that landed 843
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 285
+Queue Size: 10, Arrival Rate: 0.9, Departure Rate: 0.4
+Total number of planes refused for landing 19
+Total number of planes refused for takeoff 0
+Total number of planes that landed 860
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 374
+Queue Size: 10, Arrival Rate: 0.9, Departure Rate: 0.5
+Total number of planes refused for landing 16
+Total number of planes refused for takeoff 0
+Total number of planes that landed 875
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 484
+Queue Size: 10, Arrival Rate: 0.9, Departure Rate: 0.6
+Total number of planes refused for landing 12
+Total number of planes refused for takeoff 0
+Total number of planes that landed 865
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 583
+Queue Size: 10, Arrival Rate: 0.9, Departure Rate: 0.7
+Total number of planes refused for landing 15
+Total number of planes refused for takeoff 0
+Total number of planes that landed 873
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 663
+Queue Size: 10, Arrival Rate: 0.9, Departure Rate: 0.8
+Total number of planes refused for landing 16
+Total number of planes refused for takeoff 0
+Total number of planes that landed 851
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 760
+Queue Size: 10, Arrival Rate: 0.9, Departure Rate: 0.9
+Total number of planes refused for landing 4
+Total number of planes refused for takeoff 0
+Total number of planes that landed 847
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 23
+Total number of planes that landed 0
+Total number of planes that took off 839
+Queue Size: 15, Arrival Rate: 0.1, Departure Rate: 0.1
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 79
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 98
+Queue Size: 15, Arrival Rate: 0.1, Departure Rate: 0.2
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 84
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 193
+Queue Size: 15, Arrival Rate: 0.1, Departure Rate: 0.3
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 84
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 283
+Queue Size: 15, Arrival Rate: 0.1, Departure Rate: 0.4
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 92
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 374
+Queue Size: 15, Arrival Rate: 0.1, Departure Rate: 0.5
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 91
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 482
+Queue Size: 15, Arrival Rate: 0.1, Departure Rate: 0.6
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 90
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 607
+Queue Size: 15, Arrival Rate: 0.1, Departure Rate: 0.7
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 87
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 688
+Queue Size: 15, Arrival Rate: 0.1, Departure Rate: 0.8
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 85
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 765
+Queue Size: 15, Arrival Rate: 0.1, Departure Rate: 0.9
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 90
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 5
+Total number of planes that landed 0
+Total number of planes that took off 835
+Queue Size: 15, Arrival Rate: 0.2, Departure Rate: 0.1
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 192
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 84
+Queue Size: 15, Arrival Rate: 0.2, Departure Rate: 0.2
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 169
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 202
+Queue Size: 15, Arrival Rate: 0.2, Departure Rate: 0.3
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 173
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 298
+Queue Size: 15, Arrival Rate: 0.2, Departure Rate: 0.4
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 191
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 393
+Queue Size: 15, Arrival Rate: 0.2, Departure Rate: 0.5
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 176
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 495
+Queue Size: 15, Arrival Rate: 0.2, Departure Rate: 0.6
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 165
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 598
+Queue Size: 15, Arrival Rate: 0.2, Departure Rate: 0.7
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 168
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 674
+Queue Size: 15, Arrival Rate: 0.2, Departure Rate: 0.8
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 179
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 759
+Queue Size: 15, Arrival Rate: 0.2, Departure Rate: 0.9
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 189
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 2
+Total number of planes that landed 0
+Total number of planes that took off 825
+Queue Size: 15, Arrival Rate: 0.3, Departure Rate: 0.1
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 283
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 83
+Queue Size: 15, Arrival Rate: 0.3, Departure Rate: 0.2
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 294
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 176
+Queue Size: 15, Arrival Rate: 0.3, Departure Rate: 0.3
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 271
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 305
+Queue Size: 15, Arrival Rate: 0.3, Departure Rate: 0.4
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 278
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 410
+Queue Size: 15, Arrival Rate: 0.3, Departure Rate: 0.5
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 274
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 495
+Queue Size: 15, Arrival Rate: 0.3, Departure Rate: 0.6
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 273
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 581
+Queue Size: 15, Arrival Rate: 0.3, Departure Rate: 0.7
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 273
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 671
+Queue Size: 15, Arrival Rate: 0.3, Departure Rate: 0.8
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 291
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 765
+Queue Size: 15, Arrival Rate: 0.3, Departure Rate: 0.9
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 286
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 4
+Total number of planes that landed 0
+Total number of planes that took off 851
+Queue Size: 15, Arrival Rate: 0.4, Departure Rate: 0.1
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 374
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 91
+Queue Size: 15, Arrival Rate: 0.4, Departure Rate: 0.2
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 391
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 192
+Queue Size: 15, Arrival Rate: 0.4, Departure Rate: 0.3
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 406
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 280
+Queue Size: 15, Arrival Rate: 0.4, Departure Rate: 0.4
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 382
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 383
+Queue Size: 15, Arrival Rate: 0.4, Departure Rate: 0.5
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 366
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 500
+Queue Size: 15, Arrival Rate: 0.4, Departure Rate: 0.6
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 382
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 580
+Queue Size: 15, Arrival Rate: 0.4, Departure Rate: 0.7
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 379
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 682
+Queue Size: 15, Arrival Rate: 0.4, Departure Rate: 0.8
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 389
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 777
+Queue Size: 15, Arrival Rate: 0.4, Departure Rate: 0.9
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 374
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 7
+Total number of planes that landed 0
+Total number of planes that took off 870
+Queue Size: 15, Arrival Rate: 0.5, Departure Rate: 0.1
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 481
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 91
+Queue Size: 15, Arrival Rate: 0.5, Departure Rate: 0.2
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 493
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 176
+Queue Size: 15, Arrival Rate: 0.5, Departure Rate: 0.3
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 492
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 275
+Queue Size: 15, Arrival Rate: 0.5, Departure Rate: 0.4
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 498
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 370
+Queue Size: 15, Arrival Rate: 0.5, Departure Rate: 0.5
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 476
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 486
+Queue Size: 15, Arrival Rate: 0.5, Departure Rate: 0.6
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 515
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 559
+Queue Size: 15, Arrival Rate: 0.5, Departure Rate: 0.7
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 499
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 651
+Queue Size: 15, Arrival Rate: 0.5, Departure Rate: 0.8
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 484
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 1
+Total number of planes that landed 0
+Total number of planes that took off 776
+Queue Size: 15, Arrival Rate: 0.5, Departure Rate: 0.9
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 482
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 5
+Total number of planes that landed 0
+Total number of planes that took off 885
+Queue Size: 15, Arrival Rate: 0.6, Departure Rate: 0.1
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 608
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 90
+Queue Size: 15, Arrival Rate: 0.6, Departure Rate: 0.2
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 601
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 163
+Queue Size: 15, Arrival Rate: 0.6, Departure Rate: 0.3
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 585
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 270
+Queue Size: 15, Arrival Rate: 0.6, Departure Rate: 0.4
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 586
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 377
+Queue Size: 15, Arrival Rate: 0.6, Departure Rate: 0.5
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 559
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 516
+Queue Size: 15, Arrival Rate: 0.6, Departure Rate: 0.6
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 557
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 599
+Queue Size: 15, Arrival Rate: 0.6, Departure Rate: 0.7
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 586
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 664
+Queue Size: 15, Arrival Rate: 0.6, Departure Rate: 0.8
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 584
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 786
+Queue Size: 15, Arrival Rate: 0.6, Departure Rate: 0.9
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 579
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 2
+Total number of planes that landed 0
+Total number of planes that took off 877
+Queue Size: 15, Arrival Rate: 0.7, Departure Rate: 0.1
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 689
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 87
+Queue Size: 15, Arrival Rate: 0.7, Departure Rate: 0.2
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 677
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 166
+Queue Size: 15, Arrival Rate: 0.7, Departure Rate: 0.3
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 675
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 270
+Queue Size: 15, Arrival Rate: 0.7, Departure Rate: 0.4
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 688
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 375
+Queue Size: 15, Arrival Rate: 0.7, Departure Rate: 0.5
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 651
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 500
+Queue Size: 15, Arrival Rate: 0.7, Departure Rate: 0.6
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 661
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 591
+Queue Size: 15, Arrival Rate: 0.7, Departure Rate: 0.7
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 646
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 708
+Queue Size: 15, Arrival Rate: 0.7, Departure Rate: 0.8
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 664
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of plaTotal number of planes refusedes that took off 798
+Queue Size: 15, Arrival Rate: 0.7, Departure Rate: 0.9
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 660
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 4
+Total number of planes that landed 0
+Total number of planes that took off 886
+Queue Size: 15, Arrival Rate: 0.8, Departure Rate: 0.1
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 766
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 85
+Queue Size: 15, Arrival Rate: 0.8, Departure Rate: 0.2
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 761
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 179
+Queue Size: 15, Arrival Rate: 0.8, Departure Rate: 0.3
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 767
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 290
+Queue Size: 15, Arrival Rate: 0.8, Departure Rate: 0.4
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 779
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 389
+Queue Size: 15, Arrival Rate: 0.8, Departure Rate: 0.5
+Total number of planes refused for landing 1
+Total number of planes refused for takeoff 0
+Total number of planes that landed 776
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 486
+Queue Size: 15, Arrival Rate: 0.8, Departure Rate: 0.6
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 784
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 588
+Queue Size: 15, Arrival Rate: 0.8, Departure Rate: 0.7
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 796
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 668
+Queue Size: 15, Arrival Rate: 0.8, Departure Rate: 0.8
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 769
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 779
+Queue Size: 15, Arrival Rate: 0.8, Departure Rate: 0.9
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 756
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 11
+Total number of planes that landed 0
+Total number of planes that took off 858
+Queue Size: 15, Arrival Rate: 0.9, Departure Rate: 0.1
+Total number of planes refused for landing 5
+Total number of planes refused for takeoff 0
+Total number of planes that landed 836
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 90
+Queue Size: 15, Arrival Rate: 0.9, Departure Rate: 0.2
+Total number of planes refused for landing 2
+Total number of planes refused for takeoff 0
+Total number of planes that landed 827
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 188
+Queue Size: 15, Arrival Rate: 0.9, Departure Rate: 0.3
+Total number of planes refused for landing 4
+Total number of planes refused for takeoff 0
+Total number of planes that landed 853
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 285
+Queue Size: 15, Arrival Rate: 0.9, Departure Rate: 0.4
+Total number of planes refused for landing 7
+Total number of planes refused for takeoff 0
+Total number of planes that landed 872
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 374
+Queue Size: 15, Arrival Rate: 0.9, Departure Rate: 0.5
+Total number of planes refused for landing 5
+Total number of planes refused for takeoff 0
+Total number of planes that landed 885
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 484
+Queue Size: 15, Arrival Rate: 0.9, Departure Rate: 0.6
+Total number of planes refused for landing 2
+Total number of planes refused for takeoff 0
+Total number of planes that landed 875
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 583
+Queue Size: 15, Arrival Rate: 0.9, Departure Rate: 0.7
+Total number of planes refused for landing 4
+Total number of planes refused for takeoff 0
+Total number of planes that landed 884
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 663
+Queue Size: 15, Arrival Rate: 0.9, Departure Rate: 0.8
+Total number of planes refused for landing 11
+Total number of planes refused for takeoff 0
+Total number of planes that landed 856
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 760
+Queue Size: 15, Arrival Rate: 0.9, Departure Rate: 0.9
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 851
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 12
+Total number of planes that landed 0
+Total number of planes that took off 850
+Queue Size: 20, Arrival Rate: 0.1, Departure Rate: 0.1
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 79
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 98
+Queue Size: 20, Arrival Rate: 0.1, Departure Rate: 0.2
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 84
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 193
+Queue Size: 20, Arrival Rate: 0.1, Departure Rate: 0.3
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 84
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 283
+Queue Size: 20, Arrival Rate: 0.1, Departure Rate: 0.4
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 92
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 374
+Queue Size: 20, Arrival Rate: 0.1, Departure Rate: 0.5
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 91
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 482
+Queue Size: 20, Arrival Rate: 0.1, Departure Rate: 0.6
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 90
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 607
+Queue Size: 20, Arrival Rate: 0.1, Departure Rate: 0.7
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 87
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 688
+Queue Size: 20, Arrival Rate: 0.1, Departure Rate: 0.8
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 85
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 765
+Queue Size: 20, Arrival Rate: 0.1, Departure Rate: 0.9
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 90
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 840
+Queue Size: 20, Arrival Rate: 0.2, Departure Rate: 0.1
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 192
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 84
+Queue Size: 20, Arrival Rate: 0.2, Departure Rate: 0.2
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 169
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 202
+Queue Size: 20, Arrival Rate: 0.2, Departure Rate: 0.3
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 173
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 298
+Queue Size: 20, Arrival Rate: 0.2, Departure Rate: 0.4
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 191
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 393
+Queue Size: 20, Arrival Rate: 0.2, Departure Rate: 0.5
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 176
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 495
+Queue Size: 20, Arrival Rate: 0.2, Departure Rate: 0.6
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 165
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 598
+Queue Size: 20, Arrival Rate: 0.2, Departure Rate: 0.7
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 168
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 674
+Queue Size: 20, Arrival Rate: 0.2, Departure Rate: 0.8
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 179
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 759
+Queue Size: 20, Arrival Rate: 0.2, Departure Rate: 0.9
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 189
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 826
+Queue Size: 20, Arrival Rate: 0.3, Departure Rate: 0.1
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 283
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 83
+Queue Size: 20, Arrival Rate: 0.3, Departure Rate: 0.2
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 294
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 176
+Queue Size: 20, Arrival Rate: 0.3, Departure Rate: 0.3
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 271
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 305
+Queue Size: 20, Arrival Rate: 0.3, Departure Rate: 0.4
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 278
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 410
+Queue Size: 20, Arrival Rate: 0.3, Departure Rate: 0.5
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 274
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 495
+Queue Size: 20, Arrival Rate: 0.3, Departure Rate: 0.6
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 273
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 581
+Queue Size: 20, Arrival Rate: 0.3, Departure Rate: 0.7
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 273
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 671
+Queue Size: 20, Arrival Rate: 0.3, Departure Rate: 0.8
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 291
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 765
+Queue Size: 20, Arrival Rate: 0.3, Departure Rate: 0.9
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 286
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 855
+Queue Size: 20, Arrival Rate: 0.4, Departure Rate: 0.1
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 374
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 91
+Queue Size: 20, Arrival Rate: 0.4, Departure Rate: 0.2
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 391
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 192
+Queue Size: 20, Arrival Rate: 0.4, Departure Rate: 0.3
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 406
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 280
+Queue Size: 20, Arrival Rate: 0.4, Departure Rate: 0.4
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 382
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 383
+Queue Size: 20, Arrival Rate: 0.4, Departure Rate: 0.5
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 366
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 500
+Queue Size: 20, Arrival Rate: 0.4, Departure Rate: 0.6
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 382
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 580
+Queue Size: 20, Arrival Rate: 0.4, Departure Rate: 0.7
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 379
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 682
+Queue Size: 20, Arrival Rate: 0.4, Departure Rate: 0.8
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 389
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 777
+Queue Size: 20, Arrival Rate: 0.4, Departure Rate: 0.9
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 374
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 877
+Queue Size: 20, Arrival Rate: 0.5, Departure Rate: 0.1
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 481
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 91
+Queue Size: 20, Arrival Rate: 0.5, Departure Rate: 0.2
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 493
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 176
+Queue Size: 20, Arrival Rate: 0.5, Departure Rate: 0.3
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 492
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 275
+Queue Size: 20, Arrival Rate: 0.5, Departure Rate: 0.4
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 498
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 370
+Queue Size: 20, Arrival Rate: 0.5, Departure Rate: 0.5
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 476
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 486
+Queue Size: 20, Arrival Rate: 0.5, Departure Rate: 0.6
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 515
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 559
+Queue Size: 20, Arrival Rate: 0.5, Departure Rate: 0.7
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 499
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 651
+Queue Size: 20, Arrival Rate: 0.5, Departure Rate: 0.8
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 484
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 777
+Queue Size: 20, Arrival Rate: 0.5, Departure Rate: 0.9
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 482
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 890
+Queue Size: 20, Arrival Rate: 0.6, Departure Rate: 0.1
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 608
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 90
+Queue Size: 20, Arrival Rate: 0.6, Departure Rate: 0.2
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 601
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 163
+Queue Size: 20, Arrival Rate: 0.6, Departure Rate: 0.3
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 585
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 270
+Queue Size: 20, Arrival Rate: 0.6, Departure Rate: 0.4
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 586
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 377
+Queue Size: 20, Arrival Rate: 0.6, Departure Rate: 0.5
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 559
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 516
+Queue Size: 20, Arrival Rate: 0.6, Departure Rate: 0.6
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 557
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 599
+Queue Size: 20, Arrival Rate: 0.6, Departure Rate: 0.7
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 586
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 664
+Queue Size: 20, Arrival Rate: 0.6, Departure Rate: 0.8
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 584
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 786
+Queue Size: 20, Arrival Rate: 0.6, Departure Rate: 0.9
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 579
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 878
+Queue Size: 20, Arrival Rate: 0.7, Departure Rate: 0.1
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 689
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 87
+Queue Size: 20, Arrival Rate: 0.7, Departure Rate: 0.2
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 677
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 166
+Queue Size: 20, Arrival Rate: 0.7, Departure Rate: 0.3
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 675
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 270
+Queue Size: 20, Arrival Rate: 0.7, Departure Rate: 0.4
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 688
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 375
+Queue Size: 20, Arrival Rate: 0.7, Departure Rate: 0.5
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 651
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 500
+Queue Size: 20, Arrival Rate: 0.7, Departure Rate: 0.6
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 661
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 591
+Queue Size: 20, Arrival Rate: 0.7, Departure Rate: 0.7
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 646
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 708
+Queue Size: 20, Arrival Rate: 0.7, Departure Rate: 0.8
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 664
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 798
+Queue Size: 20, Arrival Rate: 0.7, Departure Rate: 0.9
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 660
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 890
+Queue Size: 20, Arrival Rate: 0.8, Departure Rate: 0.1
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 766
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 85
+Queue Size: 20, Arrival Rate: 0.8, Departure Rate: 0.2
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 761
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 179
+Queue Size: 20, Arrival Rate: 0.8, Departure Rate: 0.3
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 767
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 290
+Queue Size: 20, Arrival Rate: 0.8, Departure Rate: 0.4
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 779
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 389
+Queue Size: 20, Arrival Rate: 0.8, Departure Rate: 0.5
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 777
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 486
+Queue Size: 20, Arrival Rate: 0.8, Departure Rate: 0.6
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 784
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 588
+Queue Size: 20, Arrival Rate: 0.8, Departure Rate: 0.7
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 796
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 668
+Queue Size: 20, Arrival Rate: 0.8, Departure Rate: 0.8
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 769
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 779
+Queue Size: 20, Arrival Rate: 0.8, Departure Rate: 0.9
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 756
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 6
+Total number of planes that landed 0
+Total number of planes that took off 863
+Queue Size: 20, Arrival Rate: 0.9, Departure Rate: 0.1
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 841
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 90
+Queue Size: 20, Arrival Rate: 0.9, Departure Rate: 0.2
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 828
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 188
+Queue Size: 20, Arrival Rate: 0.9, Departure Rate: 0.3
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 857
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 285
+Queue Size: 20, Arrival Rate: 0.9, Departure Rate: 0.4
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 879
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 374
+Queue Size: 20, Arrival Rate: 0.9, Departure Rate: 0.5
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 890
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 484
+Queue Size: 20, Arrival Rate: 0.9, Departure Rate: 0.6
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 876
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 583
+Queue Size: 20, Arrival Rate: 0.9, Departure Rate: 0.7
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 888
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 663
+Queue Size: 20, Arrival Rate: 0.9, Departure Rate: 0.8
+Total number of planes refused for landing 6
+Total number of planes refused for takeoff 0
+Total number of planes that landed 861
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 0
+Total number of planes that took off 760
+Queue Size: 20, Arrival Rate: 0.9, Departure Rate: 0.9
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 0
+Total number of planes that landed 851
+Total number of planes that took off 0
+Total number of planes refused for landing 0
+Total number of planes refused for takeoff 6
+Total number of planes that landed 0
+Total number of planes that took off 856

@@ -1,0 +1,25 @@
+queue size 5:
+0.3 and 0.3
+Total number of planes that landed 271
+Total number of planes that took off 305
+
+
+queue size 10:
+0.4 and 0.4
+Total number of planes that landed 382
+Total number of planes that took off 383
+
+
+queue size 15:
+
+0.5 and 0.4
+
+queue size 20:
+
+0.5 and 0.4
+
+or
+
+queue size 10:
+
+0.9 and 0.1

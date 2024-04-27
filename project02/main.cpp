@@ -75,19 +75,21 @@ void run_p1() {
   double arrival_rate, departure_rate;
   initialize(end_time, queue_limit, arrival_rate, departure_rate, 1);
   Random variable;
+
   Runway small_airport(queue_limit);
-  for (int current_time = 0; current_time < end_time;
-       current_time++) { //  loop over time intervals
-    int number_arrivals =
-        variable.poisson(arrival_rate); //  current arrival requests
+
+  //  loop over time intervals
+  for (int current_time = 0; current_time < end_time; current_time++) {
+    //  current arrival requests
+    int number_arrivals = variable.poisson(arrival_rate);
     for (int i = 0; i < number_arrivals; i++) {
       Plane current_plane(flight_number++, current_time, arriving);
       if (small_airport.can_land(current_plane) != success)
         current_plane.refuse();
     }
 
-    int number_departures =
-        variable.poisson(departure_rate); //  current departure requests
+    //  current departure requests
+    int number_departures = variable.poisson(departure_rate);
     for (int j = 0; j < number_departures; j++) {
       Plane current_plane(flight_number++, current_time, departing);
       if (small_airport.can_depart(current_plane) != success)
@@ -95,8 +97,8 @@ void run_p1() {
     }
 
     Plane moving_plane;
+    //  let at most one plane onto the runway at current_time.
     switch (small_airport.activity(current_time, moving_plane)) {
-      //  Let at most one Plane onto the Runway at current_time.
     case land:
       moving_plane.land(current_time);
       break;
@@ -118,11 +120,12 @@ void run_p2() {
   initialize(end_time, queue_limit, arrival_rate, departure_rate, 2);
   Random variable;
 
-  // Create two Runway objects: one for landings and another for takeoffs.
+  // create two runway objects: one for landings and another for takeoffs.
   Runway landing_runway(queue_limit);
   Runway takeoff_runway(queue_limit);
 
   for (int current_time = 0; current_time < end_time; current_time++) {
+    //  current arrival requests
     int number_arrivals = variable.poisson(arrival_rate);
     for (int i = 0; i < number_arrivals; i++) {
       Plane current_plane(flight_number++, current_time, arriving);
@@ -130,6 +133,7 @@ void run_p2() {
         current_plane.refuse();
     }
 
+    //  current departure requests
     int number_departures = variable.poisson(departure_rate);
     for (int j = 0; j < number_departures; j++) {
       Plane current_plane(flight_number++, current_time, departing);
@@ -138,18 +142,18 @@ void run_p2() {
     }
 
     Plane moving_plane;
-    // Process landing runway activity
+    // process landing runway activity
     if (landing_runway.activity(current_time, moving_plane) == land) {
       moving_plane.land(current_time);
     } else {
-      run_idle(current_time); // If no landings, check for idleness.
+      run_idle(current_time); // if no landings, check for idleness.
     }
 
-    // Process takeoff runway activity separately
+    // process takeoff runway activity separately
     if (takeoff_runway.activity(current_time, moving_plane) == takeoff) {
       moving_plane.fly(current_time);
     } else {
-      run_idle(current_time); // If no takeoffs, it may still be idle.
+      run_idle(current_time); // if no takeoffs, it may still be idle.
     }
   }
 
