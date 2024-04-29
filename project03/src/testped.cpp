@@ -46,24 +46,16 @@ void print_data(const std::vector<int> &list, const int &print_size) {
 
 int insertion_sort(std::vector<int> &list) {
   std::cout << "Insertion sort started...\t";
-  std::cout << std::endl;
-  unsigned int while_count = 0, for_count = 0;
   for (long unsigned int i = 0; i < list.size(); i++) {
-    for_count++;
     int key = list[i];
     int j = i - 1;
 
     while (j >= 0 && list[j] > key) {
-      while_count++;
-      // std::cout << "\rCounts: " << while_count << "        " << for_count
-      //           << std::flush;
       list[j + 1] = list[j];
       j = j - 1;
     }
     list[j + 1] = key;
   }
-  std::cout << "Final counts: " << while_count << "\t" << for_count << "\t"
-            << while_count + for_count << std::endl;
   std::cout << "Done!" << std::endl << std::endl;
   return 0;
 }
@@ -117,10 +109,9 @@ void create_search_data(std::vector<int> &list, const int &num) {
 int init(std::vector<int> &data_list, int &search_num, int &loop,
          int &print_size) {
   int algorithm, num;
-  std::cout
-      << "What data algorithm to use:\n\t(1) sequential search,\n"
-         "\t(2) binary search,\n\t(3) performance,\n\t(4) insertion sort or\n"
-         "\t(5) quicksort\n:";
+  std::cout << "What data algorithm to use:\n\t(1) sequential search,\n"
+               "\t(2) binary search,\n\t(3) search performance,\n"
+               "\t(4) insertion sort or\n\t(5) quicksort\n:";
   std::cin >> algorithm;
   print_size = 0;
   std::cout << std::endl;
